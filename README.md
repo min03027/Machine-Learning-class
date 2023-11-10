@@ -11,7 +11,7 @@
 진행
 # 1. 라이브러리 및 데이터 가져오기
 : pandas, numpy, matplotlib.pyplot ,seaborn를 import 한다.
-%matplotlib inline
+
 # 2. 데이터 시각화를 통한 생존율 확인
 - Survived : 0 = 사망, 1 = 생존
 - Pclass : 1 = 1등석, 2 = 2등석, 3 = 3등석
